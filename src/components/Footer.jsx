@@ -112,6 +112,15 @@ function Footer() {
                   Translations
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://docs.shopsync.aadish.dev"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Documentation
+                </a>
+              </li>
             </ul>
           </div>
 
